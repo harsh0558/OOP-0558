@@ -88,7 +88,7 @@ int main() {
         cout << "Participant " << (count2 - i) << ": " << event2[i] << endl;
     }
 
-    // Lab task 5: Event Popularity Bar Chart
+    // Lab task 5
     cout << "\nEvent Popularity Bar Chart" << endl;
     cout << "Event 1: ";
     for (int i = 0; i < count1; i++) {
